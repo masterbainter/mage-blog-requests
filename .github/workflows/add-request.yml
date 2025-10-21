@@ -1,4 +1,4 @@
-name: Add Blog Request
+  name: Add Blog Request
 
   on:
     repository_dispatch:
@@ -32,6 +32,5 @@ name: Add Blog Request
             Request: ${{ github.event.client_payload.request }}
             Timestamp: ${{ github.event.client_payload.timestamp }}
 
-            Automated via repository_dispatch" || echo "No changes to
-  commit"
+            Automated via repository_dispatch" || echo "No changes to commit"
             git push
