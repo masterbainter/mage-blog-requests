@@ -34,7 +34,6 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 
 - [ ] I saw a fox run through my yard today.  It was a scary site watching it chase the cats, but I thought to myself that cats should just be smarter and chuckled.
 
-- [ ] test request - delete this
 
 ---
 
