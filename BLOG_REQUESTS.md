@@ -36,6 +36,8 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 
 
 
+- [ ] Iyoko my wife showed me a deer
+
 ---
 
 ## Completed Requests
