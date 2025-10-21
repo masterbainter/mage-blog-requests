@@ -31,6 +31,8 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 - [ ] the air has started to get colder.  It's been very foggy around the state of South Dakota.
 
 
+- [ ] [TEST] Verify admin panel integration is working
+
 ---
 
 ## Completed Requests
