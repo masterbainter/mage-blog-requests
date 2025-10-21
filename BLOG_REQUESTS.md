@@ -37,6 +37,8 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 
 - [ ] Test request from my phone
 
+- [ ] Test request from phone 02
+
 ---
 
 ## Completed Requests
