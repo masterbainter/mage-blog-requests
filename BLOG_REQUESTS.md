@@ -38,6 +38,8 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 
 - [ ] The corn around my house has been cut,  Still there is corn for Deer to hide in.
 
+- [ ] Micah and Jack are watching.
+
 ---
 
 ## Completed Requests
