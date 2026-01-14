@@ -38,7 +38,6 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 
 
 
-- [ ] [HIGH] [EXPIRES:2026-01-02] Talk about having a headache that lingered all yesterday, but today I feel a bit better
 
 - [ ] One of my Systems Admins tried to build a tool to help us do work, but it appears he left out UI and UX so it's hard to use.
 
