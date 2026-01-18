@@ -39,7 +39,6 @@ Use this file to request specific topics, events, or angles you want Grand Magus
 
 
 
-- [ ] One of my Systems Admins tried to build a tool to help us do work, but it appears he left out UI and UX so it's hard to use.
 
 ---
 
